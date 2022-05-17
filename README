@@ -2,3 +2,8 @@ activate virtual env
 install the requirements using pip install -r requirements.txt
 
 run python manage.py runserver
+
+git status
+git add <filename>  or git add .
+git commit -m 'message with commit'
+git push 
