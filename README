@@ -1,0 +1,4 @@
+activate virtual env
+install the requirements
+
+run python manage.py runserver
