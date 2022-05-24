@@ -1,4 +1,4 @@
-from.models import Profile
+from .models import Profile
 from pyexpat import model
 from django import forms
 from django.contrib.auth.models import User
